@@ -7,13 +7,13 @@ And each dot represents a restaurant. The color of the dot is determined by the 
 
 
 # Usage
-``` python3 recommend.py -u Thaside -k 2 -p -q Sandwiches ```
+` python3 recommend.py -u Thaside -k 2 -p -q Sandwiches `
 
-Arguments:
--u: User data.
--k: Number of clustters for k-means.
--q: Queries, to filter based on a category
--p: To predict what rating a user would give a restaurant.
--r: To get a list of Berkeley restaurants.
+Arguments:<br/>
+-u: User data.<br/>
+-k: Number of clustters for k-means.<br/>
+-q: Queries, to filter based on a category.<br/>
+-p: To predict what rating a user would give a restaurant.<br/>
+-r: To get a list of Berkeley restaurants.<br/>
 
 If you hover over each dot (a restaurant) in the visualization, you'll see a rating in parentheses next to the restaurant name.
