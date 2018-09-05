@@ -1,12 +1,12 @@
 # Introduction
 
-A visualization of restaurant ratings using machine learning and the Yelp academic dataset. 
+A visualization of restaurant ratings using machine learning and the Yelp academic dataset.<br/>
 In this visualization, Berkeley is segmented into regions, 
 where each region is shaded by the predicted rating of the closest restaurant (yellow is 5 stars, blue is 1 star). 
 And each dot represents a restaurant. The color of the dot is determined by the restaurant's location. 
 
 
-# Usage
+# Command
 ` python3 recommend.py -u Thaside -k 2 -p -q Sandwiches `
 
 Arguments:<br/>
